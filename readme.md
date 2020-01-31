@@ -1,4 +1,7 @@
 
+We'll meet on Fridays, 11:00-12:00.  We will usually meet in BSB 164, but a few meetings will have to be held elsewhere because the room isn't available on some days.
+
+
 ### Meeting schedule
 
 **February 7.**  Introduction:  concepts, theory
