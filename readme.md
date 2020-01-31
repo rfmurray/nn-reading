@@ -1,5 +1,5 @@
 
-We'll meet on Fridays, 11:00-12:00.  We will usually meet in BSB 164, but a few meetings will have to be held elsewhere because the room isn't available on some days.
+We'll meet on Fridays, 11:00-12:00.  We'll usually meet in BSB 164, but for a few meetings when that room isn't available, we'll meet elsewhere.
 
 
 ### Meeting schedule
