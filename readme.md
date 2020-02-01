@@ -4,9 +4,9 @@ We'll meet on Fridays, 11:00-12:00.  We'll usually meet in BSB 164, but for a fe
 
 ### Meeting schedule
 
-**February 7.**  Introduction:  concepts, theory
+**February 7.**  Amir Zarie. Introduction to concepts and theory.
 
-**February 14.**  Introduction:  coding practices
+**February 14.**  Introduction to coding practices
 
 **February 28.**  Topic TBD
 
