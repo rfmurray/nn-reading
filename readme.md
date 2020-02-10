@@ -12,7 +12,7 @@ We'll meet on Fridays, 11:00-12:00.  We'll usually meet in BSB 164, but for a fe
 
 **March 13.**  James Elder.  Yu & Smith (2019)
 
-**March 27.**  Topic TBD
+**March 27.**  Joel Zylberberg.  Topic TBD 
 
 **April 24.**  Topic TBD
 
