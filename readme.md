@@ -6,7 +6,7 @@ We'll meet on Fridays, 11:00-12:00.  We'll usually meet in BSB 164, but for a fe
 
 **February 7.**  Amir Zarie. Introduction to concepts and theory.
 
-**February 14.**  Tenzin Chosang. Introduction to coding methods.  ([PyTorch 60 minute blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)).
+**February 14.**  Tenzin Chosang. Introduction to coding methods.  ([PyTorch 60 minute blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html))
 
 **February 28.**  Topic TBD
 
