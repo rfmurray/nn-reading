@@ -4,7 +4,7 @@ We'll meet on Fridays, 11:00-12:00.  We'll usually meet in BSB 164, but for a fe
 
 ### Meeting schedule
 
-**Update of March 14**:  All meetings suspended as part of York's response to the coronavirus pandemic.
+**Update on March 14**:  All meetings suspended as part of York's response to the coronavirus pandemic.
 
 **March 13.**  James Elder.  Yu & Smith (2019)
 
