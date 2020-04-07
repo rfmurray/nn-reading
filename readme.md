@@ -1,12 +1,11 @@
 
 
-
-We'll meet on Fridays, 11:00-12:00 via Zoom.  (Connection details to follow.)
+We'll meet on Fridays, 11:00-12:00 via Zoom. Connection details will be sent by email.
 
 
 ### Meeting schedule
 
-**April 17.**  James Elder.  Yu & Smith (2019)
+**April 17.**  James Elder. Yu & Smith (2019)
 
-**May 1.**  Joel Zylberberg.  TBD
+**May 1.**  Joel Zylberberg. TBD
 
