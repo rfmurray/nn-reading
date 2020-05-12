@@ -5,7 +5,5 @@ We'll meet on Fridays, 11:00-12:00 via Zoom. Connection details will be sent by 
 
 ### Meeting schedule
 
-**May 1.**  Joel Zylberberg. Real, Liang, & Le (2020)
-
 **May 15.**  Naail Khan. Devereux, Clarke, & Tyler (2018)
 
