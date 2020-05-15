@@ -5,5 +5,4 @@ We'll meet on Fridays, 11:00-12:00 via Zoom. Connection details will be sent by 
 
 ### Meeting schedule
 
-**May 15.**  Naail Khan. Devereux, Clarke, & Tyler (2018)
-
+[ there are currently no further meetings planned ]
